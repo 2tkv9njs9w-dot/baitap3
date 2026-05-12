@@ -1,4 +1,11 @@
 # baitap3
+
+Họ và : Panyasack Vilasack
+
+MSSV: LAOS225001
+
+Lớp: K59KMT
+
 NHIỆM VỤ 1: THIẾT KẾ VÀ CÀI ĐẶT CƠ SỞ DỮ LIỆU
 1.1. Sơ đồ thực thể mối quan hệ (ERD)
 
